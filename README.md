@@ -1,7 +1,7 @@
-1) git config --global user.name "Ahmad jajja"
+1) git config --global user.name "Danish Mustafa"
 ---uses for setting user name---
 
-2) git config --global user.email "ahmadjajja86@gmail.com"
+2) git config --global user.email "danishjajja86@gmail.com"
 ---uses for setting user email---
 
 3) dir
