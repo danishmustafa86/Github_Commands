@@ -34,7 +34,7 @@
 12)git push origin +branchName --force
 ---Very important command for pushing and merging previous(current) commit to remote---
  
----------------------Branch Commands------------------------
+---------------------Branch Comands------------------------
 
 Branch is manadatory in git and byDefault branch is master branch.
 Note: (HEAD -> dev) head refer to current Branch 
