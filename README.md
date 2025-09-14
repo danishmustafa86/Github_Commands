@@ -8,7 +8,7 @@
 ---uses for checking our current directory folder,this directory have no link with git yet.---
 
 4) git init
----uses for initializing a git repo,For Now are repo's are untracked yet---
+---uses for initializing a git repo,For Now are repos are untracked yet---
 
 5) git status
 ---uses for checking status of our repo(Means status of our current working folder)---
